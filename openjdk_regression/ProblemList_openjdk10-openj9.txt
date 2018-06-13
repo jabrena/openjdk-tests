@@ -22,6 +22,60 @@
 
 # jdk_lang
 
+java/lang/annotation/loaderLeak/Main.java 440 linux-arm
+java/lang/Class/getEnclosingClass/EnclosingClassTest.java 440 linux-arm
+java/lang/ClassLoader/nativeLibrary/NativeLibraryTest.java 440 linux-arm
+java/lang/Class/getDeclaredField/FieldSetAccessibleTest.java 440 linux-arm
+java/lang/invoke/MethodHandles/CatchExceptionTest.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestByteArrayAsChar.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestByteArrayAsDouble.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestByteArrayAsFloat.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestByteArrayAsInt.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestByteArrayAsLong.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestByteArrayAsShort.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestMethodHandleAccessBoolean.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestMethodHandleAccessByte.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestMethodHandleAccessChar.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestMethodHandleAccessDouble.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestMethodHandleAccessFloat.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestMethodHandleAccessInt.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestMethodHandleAccessLong.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestMethodHandleAccessShort.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestMethodHandleAccessString.java 440 linux-arm
+java/lang/invoke/PermuteArgsTest.java 440 linux-arm
+java/lang/invoke/TestCatchExceptionWithVarargs.java 440 linux-arm
+java/lang/invoke/VarargsArrayTest.java 440 linux-arm
+java/lang/Long/ToString.java 440 linux-arm
+java/lang/Math/IeeeRecommendedTests.java 440 linux-arm
+java/lang/ProcessBuilder/InheritIO/InheritIO.sh 440 linux-arm
+java/lang/ProcessBuilder/Basic.java 440 linux-arm
+java/lang/ProcessHandle/Basic.java 440 linux-arm
+java/lang/ProcessHandle/InfoTest.java 440 linux-arm
+java/lang/ProcessHandle/OnExitTest.java 440 linux-arm
+java/lang/ProcessHandle/PermissionTest.java 440 linux-arm
+java/lang/ProcessHandle/TreeTest.java 440 linux-arm
+java/lang/ref/ReachabilityFenceTest.java 440 linux-arm
+java/lang/ProcessBuilder/SkipTest.java 440 linux-arm
+java/lang/Runtime/exec/ArgWithSpaceAndFinalBackslash.java 440 linux-arm
+java/lang/Runtime/exec/ExitValue.java 440 linux-arm
+java/lang/SecurityManager/modules/CustomSecurityManager.sh 440 linux-arm
+java/lang/reflect/PublicMethods/PublicMethodsTest.java 440 linux-arm
+java/lang/String/nativeEncoding/StringPlatformChars.java 440 linux-arm
+java/lang/String/concat/StringConcatFactoryInvariants.java 440 linux-arm
+java/lang/String/Split.java 440 linux-arm
+java/lang/invoke/MethodHandlesTest.java 440 linux-arm
+java/lang/System/LoggerFinder/modules/JDKLoggerForImageTest.java 440 linux-arm
+java/lang/System/LoggerFinder/modules/LoggerInImageTest.java 440 linux-arm
+java/lang/System/LoggerFinder/modules/NamedLoggerForImageTest.java 440 linux-arm
+java/lang/System/SetPropertiesNull.java 440 linux-arm
+java/lang/Thread/UncaughtExceptions.sh 440 linux-arm
+java/lang/Thread/ThreadStateTest.java 440 linux-arm
+jdk/internal/misc/VM/RuntimeArguments.java 440 linux-arm
+jdk/internal/math/FloatingDecimal/TestFloatingDecimal.java 440 linux-arm
+jdk/internal/reflect/Reflection/GetCallerClassTest.sh 440 linux-arm
+sun/misc/JarIndex/JarIndexMergeForClassLoaderTest.java 440 linux-arm
+jdk/modules/incubator/ImageModules.java 440 linux-arm
+
 ############################################################################
 
 # jdk_management
