@@ -16,7 +16,7 @@
 
 ############################################################################
 
-# jdk_beans 
+# jdk_beans
 
 ############################################################################
 
@@ -170,6 +170,9 @@ java/lang/String/CaseConvertSameInstance.java		https://github.com/eclipse/openj9
 ############################################################################
 
 # jdk_math
+
+java/math/BigInteger/BigIntegerTest.java 440 linux-arm
+java/math/BigInteger/PrimeTest.java 440 linux-arm
 
 ############################################################################
 
