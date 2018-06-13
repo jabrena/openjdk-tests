@@ -75,6 +75,9 @@ jdk/internal/math/FloatingDecimal/TestFloatingDecimal.java 440 linux-arm
 jdk/internal/reflect/Reflection/GetCallerClassTest.sh 440 linux-arm
 sun/misc/JarIndex/JarIndexMergeForClassLoaderTest.java 440 linux-arm
 jdk/modules/incubator/ImageModules.java 440 linux-arm
+java/lang/System/LoggerFinder/modules/UnnamedLoggerForImageTest.java 440 linux-arm
+jdk/internal/jimage/JImageReadTest.java 440 linux-arm
+java/lang/String/concat/ImplicitStringConcatMany.java 440 linux-arm
 
 ############################################################################
 
