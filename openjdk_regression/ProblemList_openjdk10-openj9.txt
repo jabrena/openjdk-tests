@@ -80,6 +80,8 @@ jdk/internal/jimage/JImageReadTest.java 440 linux-arm
 java/lang/String/concat/ImplicitStringConcatMany.java 440 linux-arm
 java/lang/invoke/VarHandles/VarHandleTestAccessString.java 440 linux-arm
 java/lang/Runtime/exec/ExecWithInput.java 440 linux-arm
+java/lang/String/concat/WithSecurityManager.java 440 linux-arm
+java/lang/System/LoggerFinder/LoggerFinderAPI/LoggerFinderAPI.java 440 linux-arm
 
 ############################################################################
 
