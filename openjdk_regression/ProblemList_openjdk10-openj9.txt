@@ -83,6 +83,11 @@ java/lang/Runtime/exec/ExecWithInput.java 440 linux-arm
 java/lang/String/concat/WithSecurityManager.java 440 linux-arm
 java/lang/System/LoggerFinder/LoggerFinderAPI/LoggerFinderAPI.java 440 linux-arm
 java/lang/StackWalker/NativeMethod.java 440 linux-arm
+java/lang/Character/CharacterName.java 440 linux-arm
+java/lang/Double/ParseDouble.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestAccessChar.java 440 linux-arm
+java/lang/invoke/VarHandles/VarHandleTestAccessShort.java 440 linux-arm
+sun/misc/CopyMemory.java 440 linux-arm
 
 ############################################################################
 
