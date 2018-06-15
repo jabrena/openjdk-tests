@@ -116,6 +116,10 @@ java/math/BigInteger/PrimeTest.java 440 linux-arm
 
 # jdk_io
 
+java/io/CharArrayReader/OverflowInRead.java 440 linux-arm
+java/io/DataInputStream/ReadUTF.java 440 linux-arm
+java/io/StringBufferInputStream/OverflowInRead.java 440 linux-arm
+
 ############################################################################
 
 # jdk_jdi
