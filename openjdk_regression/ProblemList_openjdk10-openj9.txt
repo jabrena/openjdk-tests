@@ -142,6 +142,10 @@ java/net/MulticastSocket/TestDefaults.java 440 linux-arm
 java/net/SocketOption/OptionsTest.java 440 linux-arm
 java/net/SocketOption/UnsupportedOptionsTest.java 440 linux-arm
 sun/net/www/http/HttpClient/MultiThreadTest.java 440 linux-arm
+java/net/httpclient/RequestBodyTest.java 440 linux-arm
+java/net/InetAddress/IsReachable.java 440 linux-arm
+java/net/InetAddress/IsReachableViaLoopbackTest.java 440 linux-arm
+java/net/Socket/SetSoLinger.java 440 linux-arm
 
 ############################################################################
 
