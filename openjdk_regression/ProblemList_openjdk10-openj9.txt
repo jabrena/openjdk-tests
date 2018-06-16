@@ -112,6 +112,37 @@ java/math/BigInteger/PrimeTest.java 440 linux-arm
 
 # jdk_net
 
+com/sun/net/httpserver/Test9a.java 440 linux-arm
+java/net/httpclient/http2/ContinuationFrameTest.java 440 linux-arm
+java/net/httpclient/http2/HpackBinaryTestDriver.java 440 linux-arm
+java/net/httpclient/http2/HpackCircularBufferDriver.java 440 linux-arm
+java/net/httpclient/http2/HpackEncoderDriver.java 440 linux-arm
+java/net/httpclient/http2/HpackHuffmanDriver.java 440 linux-arm
+java/net/httpclient/websocket/HeaderWriterDriver.java 440 linux-arm
+java/net/httpclient/websocket/MaskerDriver.java 440 linux-arm
+java/net/httpclient/websocket/ReaderDriver.java 440 linux-arm
+java/net/httpclient/whitebox/FlowTestDriver.java 440 linux-arm
+java/net/httpclient/whitebox/SSLEchoTubeTestDriver.java 440 linux-arm
+java/net/httpclient/whitebox/SSLTubeTestDriver.java 440 linux-arm
+java/net/httpclient/BufferingSubscriberTest.java 440 linux-arm
+java/net/httpclient/CustomRequestPublisher.java 440 linux-arm
+java/net/httpclient/ConcurrentResponses.java 440 linux-arm
+java/net/httpclient/CustomResponseSubscriber.java 440 linux-arm
+java/net/httpclient/FlowAdapterSubscriberTest.java 440 linux-arm
+java/net/httpclient/FlowAdapterPublisherTest.java 440 linux-arm
+java/net/httpclient/ManyRequests.java 440 linux-arm
+java/net/httpclient/ManyRequests2.java 440 linux-arm
+java/net/httpclient/NoBodyPartOne.java 440 linux-arm
+java/net/httpclient/NoBodyPartTwo.java 440 linux-arm
+java/net/httpclient/SplitResponseSSL.java 440 linux-arm
+java/net/ipv6tests/TcpTest.java 440 linux-arm
+java/net/ipv6tests/UdpTest.java 440 linux-arm
+java/net/MulticastSocket/NetworkInterfaceEmptyGetInetAddressesTest.java 440 linux-arm
+java/net/MulticastSocket/TestDefaults.java 440 linux-arm
+java/net/SocketOption/OptionsTest.java 440 linux-arm
+java/net/SocketOption/UnsupportedOptionsTest.java 440 linux-arm
+sun/net/www/http/HttpClient/MultiThreadTest.java 440 linux-arm
+
 ############################################################################
 
 # jdk_io
