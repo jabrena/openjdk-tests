@@ -146,11 +146,53 @@ java/net/httpclient/RequestBodyTest.java 440 linux-arm
 java/net/InetAddress/IsReachable.java 440 linux-arm
 java/net/InetAddress/IsReachableViaLoopbackTest.java 440 linux-arm
 java/net/Socket/SetSoLinger.java 440 linux-arm
-com/sun/net/httpserver/SelCacheTest.java
-java/net/httpclient/http2/FixedThreadPoolTest.java
-java/net/httpclient/http2/HpackDecoderDriver.java
-java/net/spi/URLStreamHandlerProvider/Basic.java
-java/net/URLClassLoader/sealing/CheckSealedTest.java
+com/sun/net/httpserver/SelCacheTest.java 440 linux-arm
+java/net/httpclient/http2/FixedThreadPoolTest.java 440 linux-arm
+java/net/httpclient/http2/HpackDecoderDriver.java 440 linux-arm
+java/net/spi/URLStreamHandlerProvider/Basic.java 440 linux-arm
+java/net/URLClassLoader/sealing/CheckSealedTest.java 440 linux-arm
+java/net/DatagramSocket/B6411513.java 440 linux-arm
+java/net/BindException/Test.java 440 linux-arm
+java/net/DatagramSocket/PortUnreachable.java 440 linux-arm
+java/net/Inet4Address/PingThis.java 440 linux-arm
+java/net/Inet6Address/serialize/Inet6AddressSerializationTest.java 440 linux-arm
+java/net/DatagramSocket/LocalSocketAddress.java 440 linux-arm
+java/net/Inet6Address/serialize/Inet6AddressSerializationTest.java 440 linux-arm
+java/net/Inet6Address/serialize/Serialize.java 440 linux-arm
+java/net/Inet6Address/B4923906.java 440 linux-arm
+java/net/Inet6Address/B6206527.java 440 linux-arm
+java/net/Inet6Address/StringScope.java 440 linux-arm
+java/net/Inet6Address/B6558853.java 440 linux-arm
+java/net/InetAddress/ptr/Lookup.java 440 linux-arm
+java/net/InetAddress/CheckJNI.java 440 linux-arm
+java/net/InterfaceAddress/NetworkPrefixLength.java 440 linux-arm
+java/net/MulticastSocket/B6427403.java 440 linux-arm
+java/net/ipv6tests/ScopeTests.java 440 linux-arm
+java/net/ipv6tests/B6521014.java 440 linux-arm
+java/net/MulticastSocket/JoinLeave.java 440 linux-arm
+java/net/MulticastSocket/NoLoopbackPackets.java 440 linux-arm
+java/net/MulticastSocket/SetGetNetworkInterfaceTest.java 440 linux-arm
+ava/net/MulticastSocket/Promiscuous.java 440 linux-arm
+java/net/MulticastSocket/SetOutgoingIf.java 440 linux-arm
+java/net/MulticastSocket/Test.java 440 linux-arm
+java/net/NetworkInterface/Equals.java 440 linux-arm
+java/net/NetworkInterface/IndexTest.java 440 linux-arm
+java/net/NetworkInterface/GetMacAddress.java 440 linux-arm
+java/net/MulticastSocket/SetLoopbackMode.java 440 linux-arm
+java/net/NetworkInterface/IPv4Only.java 440 linux-arm
+java/net/NetworkInterface/NetParamsTest.java 440 linux-arm
+java/net/MulticastSocket/TestInterfaces.java 440 linux-arm
+java/net/NetworkInterface/SubNetworkInterfaceTest.java 440 linux-arm
+java/net/NetworkInterface/Test.java 440 linux-arm
+java/net/NetworkInterface/UniqueMacAddressesTest.java 440 linux-arm
+java/net/NetworkInterface/NetworkInterfaceStreamTest.java 440 linux-arm
+java/net/ServerSocket/AcceptInheritHandle.java 440 linux-arm
+java/net/Socket/LinkLocal.java 440 linux-arm
+java/net/SocketPermission/SocketPermissionTest.java 440 linux-arm
+java/net/URLConnection/ContentHandlers/ContentHandlersTest.java 440 linux-arm
+java/net/NetworkConfigurationProbe.java 440 linux-arm
+sun/net/www/protocol/http/ZoneId.java 440 linux-arm
+sun/net/www/protocol/https/HttpsURLConnection/B6216082.java 440 linux-arm
 
 ############################################################################
 
