@@ -172,7 +172,7 @@ java/net/ipv6tests/B6521014.java 440 linux-arm
 java/net/MulticastSocket/JoinLeave.java 440 linux-arm
 java/net/MulticastSocket/NoLoopbackPackets.java 440 linux-arm
 java/net/MulticastSocket/SetGetNetworkInterfaceTest.java 440 linux-arm
-ava/net/MulticastSocket/Promiscuous.java 440 linux-arm
+java/net/MulticastSocket/Promiscuous.java 440 linux-arm
 java/net/MulticastSocket/SetOutgoingIf.java 440 linux-arm
 java/net/MulticastSocket/Test.java 440 linux-arm
 java/net/NetworkInterface/Equals.java 440 linux-arm
