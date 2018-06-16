@@ -146,6 +146,11 @@ java/net/httpclient/RequestBodyTest.java 440 linux-arm
 java/net/InetAddress/IsReachable.java 440 linux-arm
 java/net/InetAddress/IsReachableViaLoopbackTest.java 440 linux-arm
 java/net/Socket/SetSoLinger.java 440 linux-arm
+com/sun/net/httpserver/SelCacheTest.java
+java/net/httpclient/http2/FixedThreadPoolTest.java
+java/net/httpclient/http2/HpackDecoderDriver.java
+java/net/spi/URLStreamHandlerProvider/Basic.java
+java/net/URLClassLoader/sealing/CheckSealedTest.java
 
 ############################################################################
 
