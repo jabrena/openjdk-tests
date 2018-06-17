@@ -311,6 +311,25 @@ java/nio/channels/FileChannel/Transfers.java 440 linux-arm
 sun/nio/cs/FindOneCharEncoderBugs.java 440 linux-arm
 sun/nio/cs/FindEncoderBugs.java 440 linux-arm
 sun/nio/cs/FindDecoderBugs.java 440 linux-arm
+java/nio/channels/DatagramChannel/SocketOptionTests.java 440 linux-arm
+java/nio/channels/DatagramChannel/MulticastSendReceiveTests.java 440 linux-arm
+sun/nio/ch/TestMaxCachedBufferSize.java 440 linux-arm
+java/nio/file/WatchService/Basic.java 440 linux-arm
+java/nio/channels/DatagramChannel/BasicMulticastTests.java 440 linux-arm
+java/nio/channels/DatagramChannel/MulticastSendReceiveTests.java 440 linux-arm
+java/nio/channels/DatagramChannel/Promiscuous.java 440 linux-arm
+java/nio/channels/FileChannel/directio/WriteDirect.java 440 linux-arm
+java/nio/channels/FileChannel/directio/PreadDirect.java 440 linux-arm
+java/nio/channels/FileChannel/directio/ReadDirect.java 440 linux-arm
+java/nio/channels/FileChannel/directio/PwriteDirect.java 440 linux-arm
+java/nio/channels/Selector/CloseWhenKeyIdle.java 440 linux-arm
+java/nio/channels/SocketChannel/AdaptSocket.java 440 linux-arm
+java/nio/channels/SelectionKey/AtomicAttachTest.java 440 linux-arm
+java/nio/channels/SocketChannel/Shutdown.java 440 linux-arm
+java/nio/file/attribute/BasicFileAttributeView/UnixSocketFile.java 440 linux-arm
+java/nio/file/DirectoryStream/SecureDS.java 440 linux-arm
+java/nio/file/Files/CheckPermissions.java 440 linux-arm
+java/nio/file/Files/TemporaryFiles.java 440 linux-arm
 
 ############################################################################
 
