@@ -194,6 +194,8 @@ java/net/NetworkConfigurationProbe.java 440 linux-arm
 sun/net/www/protocol/http/ZoneId.java 440 linux-arm
 sun/net/www/protocol/https/HttpsURLConnection/B6216082.java 440 linux-arm
 com/sun/net/httpserver/Test1.java 440 linux-arm
+com/sun/net/httpserver/Test9.java 440 linux-arm
+com/sun/net/httpserver/bugs/B6393710.java 440 linux-arm
 
 ############################################################################
 
