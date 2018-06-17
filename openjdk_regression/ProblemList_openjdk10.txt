@@ -38,7 +38,8 @@
 
 # jdk_math
 
-java/math/BigInteger/PrimeTest.java 440 armv5tejl
+java/math/BigInteger/BigIntegerTest.java 440 linux-arm
+java/math/BigInteger/PrimeTest.java 440 linux-arm
 
 ############################################################################
 
