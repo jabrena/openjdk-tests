@@ -330,6 +330,7 @@ java/nio/file/attribute/BasicFileAttributeView/UnixSocketFile.java 440 linux-arm
 java/nio/file/DirectoryStream/SecureDS.java 440 linux-arm
 java/nio/file/Files/CheckPermissions.java 440 linux-arm
 java/nio/file/Files/TemporaryFiles.java 440 linux-arm
+java/nio/channels/FileChannel/InterruptDeadlock.java 440 linux-arm
 
 ############################################################################
 
