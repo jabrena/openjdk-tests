@@ -338,7 +338,50 @@ java/nio/channels/FileChannel/InterruptDeadlock.java 440 linux-arm
 
 ############################################################################
 
-# jdk_security
+# jdk_security1
+
+java/security/KeyPairGenerator/FinalizeHalf.java 440 linux-arm
+java/security/KeyPairGenerator/SolarisShortDSA.java 440 linux-arm
+java/security/KeyPairGenerator/Failover.java 440 linux-arm
+java/security/KeyStore/PKCS12/ConvertP12Test.java 440 linux-arm
+java/security/KeyStore/PKCS12/EntryProtectionTest.java 440 linux-arm
+java/security/KeyStore/PKCS12/WriteP12Test.java 440 linux-arm
+java/security/KeyStore/PBETest.java 440 linux-arm
+java/security/KeyStore/ProbeKeystores.java 440 linux-arm
+java/security/Policy/ExtensiblePolicy/ExtensiblePolicyWithJarTest.java 440 linux-arm
+java/security/KeyStore/TestKeyStoreEntry.java 440 linux-arm
+java/security/KeyStore/TestKeyStoreBasic.java 440 linux-arm
+java/security/MessageDigest/TestSameLength.java 440 linux-arm
+java/security/Policy/SignedJar/SignedJarTest.java 440 linux-arm
+java/security/PermissionCollection/Concurrent.java 440 linux-arm
+java/security/MessageDigest/TestDigestIOStream.java 440 linux-arm
+java/security/Security/ClassLoaderDeadlock/ClassLoaderDeadlock.sh 440 linux-arm
+java/security/Security/signedfirst/Dyn.sh 440 linux-arm
+java/security/Security/signedfirst/Static.sh 440 linux-arm
+java/security/SecureRandom/NoSync.java 440 linux-arm
+java/security/Security/SynchronizedAccess.java 440 linux-arm
+java/security/SecureRandom/ApiTest.java 440 linux-arm
+java/security/Signature/SignatureLength.java 440 linux-arm
+java/security/SignedObject/Chain.java 440 linux-arm
+java/security/SignedObject/Correctness.java 440 linux-arm
+java/security/cert/CertificateFactory/slowstream.sh 440 linux-arm
+java/security/AccessController/DoPrivAccompliceTest.java 440 linux-arm
+java/security/KeyStore/PKCS12/KeytoolReaderP12Test.java 440 linux-arm
+java/security/KeyStore/PKCS12/KeytoolWriteP12Test.java 440 linux-arm
+java/security/KeyStore/PKCS12/MetadataStoreLoadTest.java 440 linux-arm
+java/security/KeyStore/PKCS12/MetadataEmptyTest.java 440 linux-arm
+java/security/KeyStore/PKCS12/StoreTrustedCertAPITest.java 440 linux-arm
+java/security/KeyStore/PKCS12/StoreTrustedCertKeytool.java 440 linux-arm
+java/security/KeyStore/ProbeKeystores.java 440 linux-arm
+java/security/Policy/ExtensiblePolicy/ExtensiblePolicyWithJarTest.java 440 linux-arm
+java/security/KeyStore/TestKeyStoreEntry.java 440 linux-arm
+java/security/MessageDigest/TestSameLength.java 440 linux-arm
+java/security/Policy/SignedJar/SignedJarTest.java 440 linux-arm
+java/security/PermissionCollection/Concurrent.java 440 linux-arm
+java/security/MessageDigest/TestDigestIOStream.java 440 linux-arm
+java/security/Security/ClassLoaderDeadlock/ClassLoaderDeadlock.sh 440 linux-arm
+java/security/Security/signedfirst/Dyn.sh 440 linux-arm
+java/security/Security/signedfirst/Static.sh 440 linux-arm
 
 ############################################################################
 
