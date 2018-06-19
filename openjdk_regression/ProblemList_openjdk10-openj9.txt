@@ -383,6 +383,33 @@ java/security/Security/ClassLoaderDeadlock/ClassLoaderDeadlock.sh 440 linux-arm
 java/security/Security/signedfirst/Dyn.sh 440 linux-arm
 java/security/Security/signedfirst/Static.sh 440 linux-arm
 
+# jdk_security2
+
+com/sun/crypto/provider/CICO/PBEFunc/CICOPBEFuncTest.java
+com/sun/crypto/provider/Cipher/AES/TestAESCiphers/TestAESWithDefaultProvider.java
+com/sun/crypto/provider/Cipher/AES/TestAESCiphers/TestAESWithProviderChange.java
+com/sun/crypto/provider/Cipher/AES/TestAESCiphers/TestAESWithRemoveAddProvider.java
+com/sun/crypto/provider/Cipher/AES/CICO.java
+com/sun/crypto/provider/Cipher/AES/TestGHASH.java
+com/sun/crypto/provider/Cipher/Blowfish/TestCipherBlowfish.java
+com/sun/crypto/provider/Cipher/KeyWrap/TestCipherKeyWrapperTest.java
+com/sun/crypto/provider/Cipher/PBE/PBESameBuffer/PBESameBuffer.java
+com/sun/crypto/provider/Cipher/PBE/PBES2Test.java
+com/sun/crypto/provider/Cipher/PBE/PBESealedObject.java
+com/sun/crypto/provider/Cipher/PBE/PBMacBuffer.java
+com/sun/crypto/provider/Cipher/PBE/PBMacDoFinalVsUpdate.java
+com/sun/crypto/provider/Cipher/PBE/TestCipherKeyWrapperPBEKey.java
+com/sun/crypto/provider/Cipher/RSA/TestOAEPPadding.java
+com/sun/crypto/provider/Cipher/TextLength/TestCipherTextLength.java
+com/sun/crypto/provider/KeyAgreement/SameDHKeyStressTest.java
+com/sun/crypto/provider/KeyAgreement/SupportedDHKeys.java
+javax/crypto/CryptoPermissions/TestExemption.sh
+javax/crypto/SecretKeyFactory/FailOverTest.sh
+com/sun/crypto/provider/KeyAgreement/SupportedDHParamGens.java
+javax/xml/crypto/dsig/SecurityManager/XMLDSigWithSecMgr.java
+javax/xml/crypto/dsig/GenerationTests.java
+javax/crypto/SecretKeyFactory/FailOverTest.sh
+
 ############################################################################
 
 # jdk_sound
