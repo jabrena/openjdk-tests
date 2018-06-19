@@ -410,6 +410,105 @@ javax/xml/crypto/dsig/SecurityManager/XMLDSigWithSecMgr.java
 javax/xml/crypto/dsig/GenerationTests.java
 javax/crypto/SecretKeyFactory/FailOverTest.sh
 
+# jdk_security3
+
+javax/net/ssl/DTLS/DTLSBufferOverflowUnderflowTest.java 440 linux-arm
+javax/net/ssl/DTLS/DTLSDataExchangeTest.java 440 linux-arm
+javax/net/ssl/DTLS/DTLSEnginesClosureTest.java 440 linux-arm
+javax/net/ssl/DTLS/DTLSHandshakeTest.java 440 linux-arm
+javax/net/ssl/DTLS/DTLSHandshakeWithReplicatedPacketsTest.java 440 linux-arm
+javax/net/ssl/DTLS/DTLSIncorrectAppDataTest.java 440 linux-arm
+javax/net/ssl/DTLS/DTLSMFLNTest.java 440 linux-arm
+javax/net/ssl/DTLS/DTLSRehandshakeTest.java 440 linux-arm
+javax/net/ssl/DTLS/DTLSRehandshakeWithDataExTest.java 440 linux-arm
+javax/net/ssl/DTLS/DTLSRehandshakeWithCipherChangeTest.java 440 linux-arm
+javax/net/ssl/DTLS/DTLSSequenceNumberTest.java 440 linux-arm
+javax/net/ssl/DTLSv10/DTLSv10BufferOverflowUnderflowTest.java 440 linux-arm
+javax/net/ssl/DTLSv10/DTLSv10DataExchangeTest.java 440 linux-arm
+javax/net/ssl/DTLSv10/DTLSv10EnginesClosureTest.java 440 linux-arm
+javax/net/ssl/DTLSv10/DTLSv10HandshakeWithReplicatedPacketsTest.java 440 linux-arm
+javax/net/ssl/DTLS/WeakCipherSuite.java 440 linux-arm
+javax/net/ssl/DTLSv10/DTLSv10IncorrectAppDataTest.java 440 linux-arm
+javax/net/ssl/DTLSv10/DTLSv10MFLNTest.java 440 linux-arm
+javax/net/ssl/DTLSv10/DTLSv10RehandshakeTest.java 440 linux-arm
+javax/net/ssl/DTLSv10/DTLSv10RehandshakeWithCipherChangeTest.java 440 linux-arm
+javax/net/ssl/DTLSv10/DTLSv10RehandshakeWithDataExTest.java 440 linux-arm
+javax/net/ssl/DTLSv10/DTLSv10SequenceNumberTest.java 440 linux-arm
+javax/net/ssl/sanity/interop/ClientJSSEServerJSSE.java 440 linux-arm
+javax/net/ssl/ServerName/SSLSocketSNISensitive.java 440 linux-arm
+javax/net/ssl/templates/SSLSocketSSLEngineTemplate.java  440 linux-arm
+javax/net/ssl/TLS/TestJSSEClientProtocol.java 440 linux-arm
+javax/net/ssl/Stapling/HttpsUrlConnClient.java 440 linux-arm
+javax/net/ssl/Stapling/SSLSocketWithStapling.java 440 linux-arm
+javax/net/ssl/Stapling/StapleEnableProps.java 440 linux-arm
+javax/net/ssl/TLS/TLSDataExchangeTest.java 440 linux-arm
+javax/net/ssl/TLS/TLSEnginesClosureTest.java 440 linux-arm
+javax/net/ssl/TLS/TLSHandshakeTest.java 440 linux-arm
+javax/net/ssl/TLS/TLSMFLNTest.java 440 linux-arm
+javax/net/ssl/TLS/TLSRehandshakeTest.java 440 linux-arm
+javax/net/ssl/TLS/TLSRehandshakeWithDataExTest.java 440 linux-arm
+javax/net/ssl/TLSv1/TLSDataExchangeTest.java 440 linux-arm
+javax/net/ssl/TLSv1/TLSHandshakeTest.java 440 linux-arm
+javax/net/ssl/TLSv1/TLSEnginesClosureTest.java 440 linux-arm
+javax/net/ssl/TLSv1/TLSRehandshakeTest.java 440 linux-arm
+javax/net/ssl/TLSv1/TLSRehandshakeWithDataExTest.java 440 linux-arm
+javax/net/ssl/TLSv11/TLSDataExchangeTest.java 440 linux-arm
+javax/net/ssl/TLSv11/TLSHandshakeTest.java 440 linux-arm
+javax/net/ssl/TLSv11/TLSMFLNTest.java 440 linux-arm
+javax/net/ssl/TLSv11/TLSRehandshakeTest.java 440 linux-arm
+javax/net/ssl/TLSv11/TLSRehandshakeWithCipherChangeTest.java 440 linux-arm
+javax/net/ssl/TLSv11/TLSRehandshakeWithDataExTest.java 440 linux-arm
+javax/security/auth/Subject/doAs/Test.sh 440 linux-arm
+javax/security/auth/login/modules/JaasModularClientTest.java 440 linux-arm
+javax/security/auth/login/modules/JaasModularDefaultHandlerTest.java 440 linux-arm
+jdk/security/jarsigner/Function.java 440 linux-arm
+jdk/security/jarsigner/Spec.java 440 linux-arm
+sun/security/ec/TestEC.java 440 linux-arm
+sun/security/pkcs11/KeyAgreement/SupportedDHKeys.java 440 linux-arm
+sun/security/pkcs11/Secmod/TestNssDbSqlite.java 440 linux-arm
+sun/security/pkcs11/sslecc/ClientJSSEServerJSSE.java 440 linux-arm
+sun/security/pkcs12/P12SecretKey.java 440 linux-arm
+sun/security/pkcs12/StorePasswordTest.java 440 linux-arm
+sun/security/provider/DSA/TestKeyPairGenerator.java 440 linux-arm
+sun/security/provider/DSA/TestLegacyDSAKeyPairGenerator.java 440 linux-arm
+sun/security/provider/DSA/SupportedDSAParamGen.java 440 linux-arm
+sun/security/provider/NSASuiteB/TestDSAGenParameterSpec.java 440 linux-arm
+sun/security/provider/X509Factory/BigCRL.java 440 linux-arm
+sun/security/provider/DSA/TestAlgParameterGenerator.java 440 linux-arm
+sun/security/rsa/SignatureTest.java 440 linux-arm
+sun/security/rsa/SpecTest.java 440 linux-arm
+sun/security/rsa/TestKeyPairGeneratorLength.java 440 linux-arm
+sun/security/rsa/TestKeyPairGenerator.java 440 linux-arm
+sun/security/ssl/EngineArgs/DebugReportsOneExtraByte.sh 440 linux-arm
+sun/security/ssl/GenSSLConfigs/main.java 440 linux-arm
+sun/security/ssl/rsa/SignatureOffsets.java 440 linux-arm
+sun/security/ssl/rsa/SignedObjectChain.java 440 linux-arm
+sun/security/ssl/DHKeyExchange/UseStrongDHSizes.java 440 linux-arm
+sun/security/ssl/SSLEngineImpl/SSLEngineBadBufferArrayAccess.java 440 linux-arm
+sun/security/ssl/SSLSocketImpl/NotifyHandshakeTest.sh 440 linux-arm
+sun/security/ssl/SSLEngineImpl/SSLEngineDeadlock.java 440 linux-arm
+sun/security/ssl/SSLSocketImpl/NonAutoClose.java 440 linux-arm
+sun/security/ssl/StatusStapling/RunStatReqSelect.java 440 linux-arm
+sun/security/tools/jarsigner/warnings/MultipleWarningsTest.java 440 linux-arm
+sun/security/tools/jarsigner/certpolicy.sh 440 linux-arm
+sun/security/tools/jarsigner/EntriesOrder.java 440 linux-arm
+sun/security/tools/jarsigner/onlymanifest.sh 440 linux-arm
+sun/security/tools/jarsigner/Warning.java 440 linux-arm
+sun/security/tools/keytool/importreadall.sh 440 linux-arm
+sun/security/tools/keytool/DupImport.java 440 linux-arm
+sun/security/tools/keytool/PKCS12Passwd.java 440 linux-arm
+sun/security/tools/keytool/NewSize7.java 440 linux-arm
+sun/security/tools/keytool/selfissued.sh 440 linux-arm
+sun/security/tools/keytool/trystore.sh 440 linux-arm
+sun/security/tools/keytool/StorePasswords.java 440 linux-arm
+sun/security/tools/keytool/UnknownAndUnparseable.java 440 linux-arm
+sun/security/tools/jarsigner/TimestampCheck.java 440 linux-arm
+sun/security/validator/certreplace.sh 440 linux-arm
+sun/security/validator/samedn.sh 440 linux-arm
+sun/security/x509/X509CRLImpl/OrderAndDup.java 440 linux-arm
+sun/security/x509/X509CertImpl/V3Certificate.java 440 linux-arm
+sun/security/tools/keytool/WeakAlg.java 440 linux-arm
+
 ############################################################################
 
 # jdk_sound
