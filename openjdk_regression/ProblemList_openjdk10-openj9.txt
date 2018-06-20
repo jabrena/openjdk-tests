@@ -591,6 +591,15 @@ sun/security/tools/jarsigner/weaksize.sh 440 linux-arm
 sun/security/tools/keytool/ImportPrompt.java 440 linux-arm
 sun/security/tools/keytool/SecretKeyKS.sh 440 linux-arm
 sun/security/tools/keytool/ReadJar.java 440 linux-arm
+sun/security/provider/certpath/ResponderId/ResponderIdTests.java 440 linux-arm
+sun/security/provider/SecureRandom/AbstractDrbg/SpecTest.java 440 linux-arm
+sun/security/provider/SecureRandom/SHA1PRNGReseed.java 440 linux-arm
+sun/security/provider/SecureRandom/StrongSecureRandom.java 440 linux-arm
+sun/security/rsa/SignedObjectChain.java 440 linux-arm
+sun/security/tools/jarsigner/warnings/HasExpiringCertTest.java 440 linux-arm
+sun/security/tools/jarsigner/LineBrokenMultiByteCharacter.java 440 linux-arm
+sun/security/tools/jarsigner/newsize7.sh 440 linux-arm
+sun/security/tools/keytool/CloneKeyAskPassword.sh 440 linux-arm
 
 ############################################################################
 
