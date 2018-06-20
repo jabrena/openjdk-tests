@@ -578,6 +578,19 @@ sun/security/tools/keytool/NoExtNPE.sh 440 linux-arm
 sun/security/tools/keytool/CloseFile.java 440 linux-arm
 sun/security/tools/keytool/PrintSSL.java 440 linux-arm
 sun/security/tools/keytool/StorePasswordsByShell.sh 440 linux-arm
+lib/security/cacerts/VerifyCACerts.java 440 linux-arm
+sun/security/rsa/SignedObjectChain.java 440 linux-arm
+sun/security/tools/jarsigner/Options.java 440 linux-arm
+sun/security/tools/jarsigner/warnings/BadNetscapeCertTypeTest.java 440 linux-arm
+sun/security/tools/jarsigner/warnings/HasExpiredCertTest.java 440 linux-arm
+sun/security/tools/jarsigner/warnings/NoTimestampTest.java 440 linux-arm
+sun/security/tools/jarsigner/default_options.sh 440 linux-arm
+sun/security/tools/jarsigner/oldsig.sh 440 linux-arm
+sun/security/tools/jarsigner/passtype.sh 440 linux-arm
+sun/security/tools/jarsigner/weaksize.sh 440 linux-arm
+sun/security/tools/keytool/ImportPrompt.java 440 linux-arm
+sun/security/tools/keytool/SecretKeyKS.sh 440 linux-arm
+sun/security/tools/keytool/ReadJar.java 440 linux-arm
 
 ############################################################################
 
