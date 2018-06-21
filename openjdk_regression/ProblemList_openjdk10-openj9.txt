@@ -614,6 +614,8 @@ sun/security/tools/keytool/newhelp.sh 440 linux-arm
 
 # jdk_text
 
+java/text/Format/NumberFormat/NumberRoundTrip.java 440 linux-arm
+
 ############################################################################
 
 # jdk_time
