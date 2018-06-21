@@ -603,6 +603,7 @@ sun/security/tools/keytool/CloneKeyAskPassword.sh 440 linux-arm
 sun/security/rsa/SignedObjectChain.java 440 linux-arm
 sun/security/tools/keytool/file-in-help.sh 440 linux-arm
 sun/security/tools/keytool/newhelp.sh 440 linux-arm
+sun/security/rsa/SignedObjectChain.java 440 linux-arm
 
 ############################################################################
 
