@@ -595,15 +595,12 @@ sun/security/provider/certpath/ResponderId/ResponderIdTests.java 440 linux-arm
 sun/security/provider/SecureRandom/AbstractDrbg/SpecTest.java 440 linux-arm
 sun/security/provider/SecureRandom/SHA1PRNGReseed.java 440 linux-arm
 sun/security/provider/SecureRandom/StrongSecureRandom.java 440 linux-arm
-sun/security/rsa/SignedObjectChain.java 440 linux-arm
 sun/security/tools/jarsigner/warnings/HasExpiringCertTest.java 440 linux-arm
 sun/security/tools/jarsigner/LineBrokenMultiByteCharacter.java 440 linux-arm
 sun/security/tools/jarsigner/newsize7.sh 440 linux-arm
 sun/security/tools/keytool/CloneKeyAskPassword.sh 440 linux-arm
-sun/security/rsa/SignedObjectChain.java 440 linux-arm
 sun/security/tools/keytool/file-in-help.sh 440 linux-arm
 sun/security/tools/keytool/newhelp.sh 440 linux-arm
-sun/security/rsa/SignedObjectChain.java 440 linux-arm
 
 ############################################################################
 
