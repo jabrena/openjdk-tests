@@ -615,6 +615,7 @@ sun/security/tools/keytool/newhelp.sh 440 linux-arm
 # jdk_text
 
 java/text/Format/NumberFormat/NumberRoundTrip.java 440 linux-arm
+sun/text/IntHashtable/Bug4170614Test.sh 440 linux-arm
 
 ############################################################################
 
