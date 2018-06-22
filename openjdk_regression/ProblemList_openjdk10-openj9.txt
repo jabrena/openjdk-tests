@@ -724,6 +724,39 @@ java/util/stream/boottest/java.base/java/util/stream/SpinedBufferTest.java 440 l
 java/util/zip/EntryCount64k.java 440 linux-arm
 java/util/zip/DeInflate.java 440 linux-arm
 java/util/zip/DeflateIn_InflateOut.java 440 linux-arm
+java/util/Arrays/ParallelSorting.java 440 linux-arm
+java/util/concurrent/atomic/LongAdderDemo.java 440 linux-arm
+java/util/concurrent/locks/LockSupport/ParkLoops.java 440 linux-arm
+java/util/PluggableLocale/CalendarNameProviderTest.sh 440 linux-arm
+java/util/PluggableLocale/DateFormatProviderTest.sh 440 linux-arm
+java/util/ResourceBundle/modules/appbasic2/appbasic2.sh 440 linux-arm
+java/util/ResourceBundle/modules/visibility/visibility.sh 440 linux-arm
+java/util/ServiceLoader/basic/basic.sh 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/CollectAndSummaryStatisticsTest.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/CollectorsTest.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/DoublePrimitiveOpsTests.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/InfiniteStreamWithLimitOpTest.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/LongPrimitiveOpsTests.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/MapOpTest.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/PrimitiveSumTest.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/ReduceTest.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/SequentialOpTest.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/StreamLinkTest.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/StreamParSeqTest.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/TeeOpTest.java 440 linux-arm
+java/util/stream/test/org/openjdk/tests/java/util/stream/WhileOpStatefulTest.java 440 linux-arm
+java/util/TimeZone/TimeZoneDatePermissionCheck.sh 440 linux-arm
+java/util/PluggableLocale/CalendarNameProviderTest.sh 440 linux-arm
+java/util/PluggableLocale/CalendarDataProviderTest.sh 440 linux-arm
+java/util/PluggableLocale/ClasspathTest.sh 440 linux-arm
+java/util/PluggableLocale/CollatorProviderTest.sh 440 linux-arm
+java/util/PluggableLocale/CurrencyNameProviderTest.sh 440 linux-arm
+java/util/PluggableLocale/DateFormatProviderTest.sh 440 linux-arm
+java/util/PluggableLocale/DateFormatSymbolsProviderTest.sh 440 linux-arm
+java/util/PluggableLocale/DecimalFormatSymbolsProviderTest.sh 440 linux-arm
+java/util/ResourceBundle/modules/appbasic2/appbasic2.sh 440 linux-arm
+java/util/ResourceBundle/modules/layer/run.sh 440 linux-arm
+java/util/ResourceBundle/modules/simple/simple.sh 440 linux-arm
 
 ############################################################################
 
