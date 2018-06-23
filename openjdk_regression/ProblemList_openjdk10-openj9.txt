@@ -621,6 +621,54 @@ sun/text/IntHashtable/Bug4170614Test.sh 440 linux-arm
 
 # jdk_time
 
+java/time/tck/java/time/chrono/serial/TCKChronologySerialization.java 440 linux-arm
+java/time/tck/java/time/chrono/serial/TCKChronoZonedDateTimeSerialization.java 440 linux-arm
+java/time/tck/java/time/chrono/serial/TCKEraSerialization.java 440 linux-arm
+java/time/tck/java/time/chrono/serial/TCKChronoLocalDateSerialization.java 440 linux-arm
+java/time/tck/java/time/chrono/serial/TCKCopticSerialization.java 440 linux-arm
+java/time/tck/java/time/chrono/serial/TCKChronoLocalDateTimeSerialization.java 440 linux-arm
+java/time/tck/java/time/chrono/CopticChronology.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKChronoPeriod.java 440 linux-arm
+java/time/tck/java/time/chrono/CopticEra.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKChronology.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKChronoZonedDateTime.java 440 linux-arm
+java/time/tck/java/time/chrono/CopticDate.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKHijrahChronology.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKHijrahEra.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKJapaneseEra.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKIsoChronology.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKJapaneseChronology.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKIsoEra.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKMinguoChronology.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKThaiBuddhistChronology.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKMinguoEra.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKTestServiceLoader.java 440 linux-arm
+java/time/tck/java/time/chrono/TCKThaiBuddhistEra.java 440 linux-arm
+java/time/tck/java/time/format/TCKChronoPrinterParser.java 440 linux-arm
+java/time/tck/java/time/format/TCKDecimalStyle.java 440 linux-arm
+java/time/tck/java/time/format/TCKDateTimeFormatter.java 440 linux-arm
+java/time/tck/java/time/format/TCKDateTimeFormatterBuilder.java 440 linux-arm
+java/time/tck/java/time/format/TCKDTFParsedInstant.java 440 linux-arm
+java/time/tck/java/time/format/TCKDateTimeTextPrinting.java 440 linux-arm
+java/time/tck/java/time/format/TCKFormatStyle.java 440 linux-arm
+java/time/tck/java/time/format/TCKInstantPrinterParser.java 440 linux-arm
+java/time/tck/java/time/format/TCKLocalizedFieldPrinter.java 440 linux-arm
+java/time/tck/java/time/format/TCKLocalizedPrinterParser.java 440 linux-arm
+java/time/tck/java/time/format/TCKLocalizedOffsetIdPrinterParser.java 440 linux-arm
+java/time/tck/java/time/format/TCKPadPrinterParser.java 440 linux-arm
+java/time/tck/java/time/format/TCKTextStyle.java 440 linux-arm
+java/time/tck/java/time/format/TCKOffsetPrinterParser.java 440 linux-arm
+java/time/tck/java/time/serial/TCKInstantSerialization.java 440 linux-arm
+java/time/tck/java/time/temporal/TCKWeekFields.java 440 linux-arm
+java/time/tck/java/time/TCKLocalDate.java 440 linux-arm
+java/time/tck/java/time/TCKLocalDateTime.java 440 linux-arm
+java/time/tck/java/time/TCKYear.java 440 linux-arm
+java/time/tck/java/time/TCKZoneOffset.java 440 linux-arm
+java/time/test/java/time/chrono/TestIsoChronoImpl.java 440 linux-arm
+java/time/test/java/time/chrono/TestJapaneseChronoImpl.java 440 linux-arm
+java/time/test/java/time/chrono/TestThaiBuddhistChronoImpl.java 440 linux-arm
+java/time/test/java/time/format/TestZoneTextPrinterParser.java 440 linux-arm
+
 ############################################################################
 
 # jdk_tools
