@@ -757,6 +757,8 @@ java/util/PluggableLocale/DecimalFormatSymbolsProviderTest.sh 440 linux-arm
 java/util/ResourceBundle/modules/appbasic2/appbasic2.sh 440 linux-arm
 java/util/ResourceBundle/modules/layer/run.sh 440 linux-arm
 java/util/ResourceBundle/modules/simple/simple.sh 440 linux-arm
+java/util/Spliterator/SpliteratorTraversingAndSplittingTest.java 440 linux-arm
+java/util/concurrent/ConcurrentHashMap/ConcurrentAssociateTest.java 440 linux-arm
 
 ############################################################################
 
